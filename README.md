@@ -1,1 +1,1 @@
-This repository will a demo repository for my git tutorial.
+This repository will be a demo repository for my Git Tutorial.
